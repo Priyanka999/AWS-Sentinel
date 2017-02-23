@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3f015cf20f813200e19f8e8ce1050ea2" sys_domain="global" table="x_83786_aws_sentin_rfc" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:23:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3015cf20f813200e19f8e8ce1050ea3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_83786_aws_sentin_rfc" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">3f015cf20f813200e19f8e8ce1050ea2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:23:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:23:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37015cf20f813200e19f8e8ce1050ea3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_83786_aws_sentin_rfc" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">3f015cf20f813200e19f8e8ce1050ea2</sys_ui_form>
+            <sys_ui_section caption="RFC Configuration" display_value="RFC Configuration" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">b7015cf20f813200e19f8e8ce1050ea2</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:23:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_83786_aws_sentin_rfc</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:23:17</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f015cf20f813200e19f8e8ce1050ea2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_83786_aws_sentin_rfc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3f015cf20f813200e19f8e8ce1050ea2</sys_update_name>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:23:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

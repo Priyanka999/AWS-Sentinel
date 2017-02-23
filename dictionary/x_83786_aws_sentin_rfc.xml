@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="RFC" max_length="40" name="x_83786_aws_sentin_rfc" type="collection"/>
+    <element label="RFC" max_length="40" name="x_83786_aws_sentin_rfc" type="collection">
+        <element label="Category" mandatory="true" max_length="32" name="category" reference="x_83786_aws_sentin_category" type="reference"/>
+        <element label="Date/Time" max_length="40" name="date_time" type="glide_date_time"/>
+        <element label="Description" max_length="500" name="description" type="string_full_utf8"/>
+        <element label="Expected outcome" max_length="500" name="expected_outcome" type="string_full_utf8"/>
+        <element label="Implementation plan" max_length="500" name="implementation_plan" type="string_full_utf8"/>
+        <element label="Item" mandatory="true" max_length="40" name="item" reference="x_83786_aws_sentin_item" type="reference"/>
+        <element label="Operation" mandatory="true" max_length="40" name="operation" reference="x_83786_aws_sentin_operation" type="reference"/>
+        <element label="Rollback plan" max_length="500" name="rollback_plan" type="string_full_utf8"/>
+        <element choice="1" label="Start Time" max_length="40" name="start_time" type="choice">
+            <choice>
+                <element label="ASAP (10 minutes after RFC is submitted)" sequence="0" value="ASAP (10 minutes after RFC is submitted)"/>
+                <element label="Scheduled" sequence="1" value="Scheduled"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element label="Success" sequence="0" value="Success"/>
+                <element label="Failure" sequence="1" value="Failure"/>
+                <element label="Canceled" sequence="2" value="Canceled"/>
+            </choice>
+        </element>
+        <element label="Subcategory" mandatory="true" max_length="40" name="subcategory" reference="x_83786_aws_sentin_sub_category" type="reference"/>
+        <element label="Subject" mandatory="true" max_length="40" name="subject" type="string"/>
+        <element label="Worst-case scenario" max_length="500" name="worst_case_scenario" type="string_full_utf8"/>
+        <index name="index">
+            <element name="category"/>
+        </index>
+    </element>
 </database>

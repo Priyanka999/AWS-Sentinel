@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_83786_aws_sentin_item" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>item</element>
+            <list_id display_value="x_83786_aws_sentin_item" element="NULL" name="x_83786_aws_sentin_item" parent="NULL" relationship="NULL" sys_domain="global" view="6ca21630c4212200a21c0beaf2e2937e">56a190360f813200e19f8e8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:25:56</sys_created_on>
+            <sys_id>9aa190360f813200e19f8e8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:25:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_83786_aws_sentin_item</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:25:56</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56a190360f813200e19f8e8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_83786_aws_sentin_item</sys_name>
+            <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
+            <sys_update_name>sys_ui_list_x_83786_aws_sentin_item_sys_ref_list</sys_update_name>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:25:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">6ca21630c4212200a21c0beaf2e2937e</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

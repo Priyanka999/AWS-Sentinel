@@ -1,6 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
     <sys_ui_section caption="" section_id="beee76660f013200e19f8e8ce1050e1e" sys_domain="global" table="x_83786_aws_sentin_rfc" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>0</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>942698b60f813200e19f8e8ce1050e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>1</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>182698b60f813200e19f8e8ce1050e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>operation</element>
+            <position>2</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>982698b60f813200e19f8e8ce1050e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>3</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>1c2698b60f813200e19f8e8ce1050e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>9c2698b60f813200e19f8e8ce1050e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_time</element>
+            <position>5</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>102698b60f813200e19f8e8ce1050e1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_time</element>
+            <position>6</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>902698b60f813200e19f8e8ce1050e1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>7</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 13:45:27</sys_created_on>
+            <sys_id>142698b60f813200e19f8e8ce1050e1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_rfc" sys_domain="global" view="Default view">beee76660f013200e19f8e8ce1050e1e</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 13:45:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

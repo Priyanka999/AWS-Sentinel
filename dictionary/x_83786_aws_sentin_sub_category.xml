@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Sub Category" max_length="40" name="x_83786_aws_sentin_sub_category" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Subcategory" max_length="40" name="subcategory" type="string"/>
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>
