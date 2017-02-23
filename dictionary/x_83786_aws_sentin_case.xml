@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Case" max_length="40" name="x_83786_aws_sentin_case" type="collection">
+        <element label="Account" max_length="40" name="account" type="integer"/>
+        <element label="Category" max_length="40" name="category" reference="x_83786_aws_sentin_category" type="reference"/>
+        <element label="CC Email Addresses" max_length="40" name="cc_email_addresses" type="string_full_utf8"/>
+        <element label="Communication Body " max_length="1000" name="communication_body" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contact Method" max_length="40" name="contact_method" type="string">
+            <choice>
+                <element label="Web (we will get back to you within 24 hours)" sequence="0" value="Web (we will get back to you within 24 hours)"/>
+                <element label="Chat" sequence="1" value="Chat"/>
+                <element label="Phone" sequence="2" value="Phone"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Country" max_length="20" name="country" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Ext." max_length="10" name="ext" type="string"/>
+        <element label="Issue Type" max_length="40" name="issue_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone Number" max_length="20" name="phone_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Regarding" max_length="40" name="regarding" type="choice">
+            <choice>
+                <element label="Account and Billing Support" value="Account and Billing Support"/>
+                <element label="Service Limit Increase" value="Service Limit Increase"/>
+                <element label="Technical Support" value="Technical Support"/>
+            </choice>
+        </element>
+        <element label="Service" max_length="40" name="service" reference="x_83786_aws_sentin_service" type="reference"/>
+        <element label="Service Code" max_length="40" name="service_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Severity" max_length="40" name="severity" reference="x_83786_aws_sentin_severity" type="reference"/>
+        <element label="Severity Code" max_length="40" name="severity_code" type="string"/>
+        <element label="Subject" max_length="40" name="subject" type="string"/>
+        <element label="Sub Category" max_length="40" name="sub_category" type="string"/>
+        <element choice="1" label="Support Language " max_length="40" name="support_language" type="choice">
+            <choice>
+                <element label="English" sequence="0" value="English"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sahitya</sys_created_by>
+        <sys_created_on>2017-02-23 10:54:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e41fef2a0f413200e19f8e8ce1050e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_83786_aws_sentin_severity.x_83786_aws_sentin_severity_user</sys_name>
+        <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
+        <sys_security_acl display_value="x_83786_aws_sentin_severity">a81fef2a0f413200e19f8e8ce1050e31</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e41fef2a0f413200e19f8e8ce1050e32</sys_update_name>
+        <sys_updated_by>sahitya</sys_updated_by>
+        <sys_updated_on>2017-02-23 10:54:49</sys_updated_on>
+        <sys_user_role display_value="x_83786_aws_sentin_severity_user" name="x_83786_aws_sentin_severity_user">841fab2a0f413200e19f8e8ce1050e01</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

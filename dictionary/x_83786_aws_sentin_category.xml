@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Category" max_length="40" name="x_83786_aws_sentin_category" type="collection">
+        <element display="true" label="Category value" max_length="40" name="category_value" type="string"/>
+    </element>
+</database>

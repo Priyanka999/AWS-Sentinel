@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Support">9e0efe260f013200e19f8e8ce1050ec7</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0.00</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Create Case</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=d839db2e0f013200e19f8e8ce1050eaa&amp;sysparm_preview=true", "summary");</preview>
+        <price>0.00</price>
+        <recurring_frequency/>
+        <recurring_price>0.00</recurring_price>
+        <roles/>
+        <sc_catalogs>1cbd3e260f013200e19f8e8ce1050efe</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description/>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-23 09:20:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d839db2e0f013200e19f8e8ce1050eaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Case</sys_name>
+        <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
+        <sys_update_name>sc_cat_item_producer_d839db2e0f013200e19f8e8ce1050eaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-23 09:20:11</sys_updated_on>
+        <table_name>x_83786_aws_sentin_case</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=d839db2e0f013200e19f8e8ce1050eaa"/>
+    <fx_price action="delete_multiple" query="id=d839db2e0f013200e19f8e8ce1050eaa"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>price</field>
+        <id>d839db2e0f013200e19f8e8ce1050eaa</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-23 09:20:11</sys_created_on>
+        <sys_id>aa6957e60f013200e19f8e8ce1050ef5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-23 09:20:11</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>recurring_price</field>
+        <id>d839db2e0f013200e19f8e8ce1050eaa</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-23 09:20:11</sys_created_on>
+        <sys_id>e669dbea0f013200e19f8e8ce1050e30</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-23 09:20:12</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1658</size_bytes>
+        <size_compressed>1653</size_compressed>
+        <sys_created_by>sai</sys_created_by>
+        <sys_created_on>2017-02-23 11:05:25</sys_created_on>
+        <sys_id>48817f6a0f413200e19f8e8ce1050e8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sai</sys_updated_by>
+        <sys_updated_on>2017-02-23 11:05:25</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>d839db2e0f013200e19f8e8ce1050eaa</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="48817f6a0f413200e19f8e8ce1050e8a">48817f6a0f413200e19f8e8ce1050e8a</sys_attachment>
+        <sys_created_by>sai</sys_created_by>
+        <sys_created_on>2017-02-23 11:05:25</sys_created_on>
+        <sys_id>88817f6a0f413200e19f8e8ce1050e8a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2192</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="48817f6a0f413200e19f8e8ce1050e8a">48817f6a0f413200e19f8e8ce1050e8a</sys_attachment>
+        <sys_created_by>sai</sys_created_by>
+        <sys_created_on>2017-02-23 11:05:25</sys_created_on>
+        <sys_id>0c817f6a0f413200e19f8e8ce1050e8a</sys_id>
+    </sys_attachment_doc>
+</record_update>

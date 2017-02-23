@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Service" max_length="40" name="x_83786_aws_sentin_service" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service Code" max_length="40" name="service_code" type="string"/>
+    </element>
+</database>

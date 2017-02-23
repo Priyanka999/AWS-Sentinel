@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="483faf2a0f413200e19f8e8ce1050e09" sys_domain="global" table="x_83786_aws_sentin_severity" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>sai</sys_created_by>
+            <sys_created_on>2017-02-23 10:55:19</sys_created_on>
+            <sys_id>843faf2a0f413200e19f8e8ce1050e0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_severity" sys_domain="global" view="Default view">483faf2a0f413200e19f8e8ce1050e09</sys_ui_section>
+            <sys_updated_by>sai</sys_updated_by>
+            <sys_updated_on>2017-02-23 10:55:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>severity_code</element>
+            <position>1</position>
+            <sys_created_by>sai</sys_created_by>
+            <sys_created_on>2017-02-23 10:55:19</sys_created_on>
+            <sys_id>c83f236a0f413200e19f8e8ce1050e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_severity" sys_domain="global" view="Default view">483faf2a0f413200e19f8e8ce1050e09</sys_ui_section>
+            <sys_updated_by>sai</sys_updated_by>
+            <sys_updated_on>2017-02-23 10:55:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>sai</sys_created_by>
+            <sys_created_on>2017-02-23 10:55:19</sys_created_on>
+            <sys_id>4c3f236a0f413200e19f8e8ce1050e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_severity" sys_domain="global" view="Default view">483faf2a0f413200e19f8e8ce1050e09</sys_ui_section>
+            <sys_updated_by>sai</sys_updated_by>
+            <sys_updated_on>2017-02-23 10:55:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>severity_name</element>
+            <position>3</position>
+            <sys_created_by>sai</sys_created_by>
+            <sys_created_on>2017-02-23 10:55:19</sys_created_on>
+            <sys_id>cc3f236a0f413200e19f8e8ce1050e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_severity" sys_domain="global" view="Default view">483faf2a0f413200e19f8e8ce1050e09</sys_ui_section>
+            <sys_updated_by>sai</sys_updated_by>
+            <sys_updated_on>2017-02-23 10:55:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>sai</sys_created_by>
+            <sys_created_on>2017-02-23 10:55:19</sys_created_on>
+            <sys_id>403f236a0f413200e19f8e8ce1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_83786_aws_sentin_severity" sys_domain="global" view="Default view">483faf2a0f413200e19f8e8ce1050e09</sys_ui_section>
+            <sys_updated_by>sai</sys_updated_by>
+            <sys_updated_on>2017-02-23 10:55:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_83786_aws_sentin_severity</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sai</sys_created_by>
+            <sys_created_on>2017-02-23 10:55:19</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>483faf2a0f413200e19f8e8ce1050e09</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_83786_aws_sentin_severity</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
+            <sys_update_name>sys_ui_section_483faf2a0f413200e19f8e8ce1050e09</sys_update_name>
+            <sys_updated_by>sai</sys_updated_by>
+            <sys_updated_on>2017-02-23 10:55:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

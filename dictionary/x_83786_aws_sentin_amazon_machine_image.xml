@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Amazon Machine Image" max_length="40" name="x_83786_aws_sentin_amazon_machine_image" type="collection"/>
+</database>

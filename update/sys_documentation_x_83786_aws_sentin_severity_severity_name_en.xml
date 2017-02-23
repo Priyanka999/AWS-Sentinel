@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="severity_name" label="Severity Name" language="en" table="x_83786_aws_sentin_severity">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>severity_name</element>
+            <help/>
+            <hint/>
+            <label>Severity Name</label>
+            <language>en</language>
+            <name>x_83786_aws_sentin_severity</name>
+            <plural>Severity Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-02-23 10:54:49</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>781fef2a0f413200e19f8e8ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Severity Name</sys_name>
+            <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
+            <sys_update_name>sys_documentation_x_83786_aws_sentin_severity_severity_name_en</sys_update_name>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-02-23 10:54:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
