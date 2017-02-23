@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="RFC">9adef2660f013200e19f8e8ce1050e0d</application>
+        <application display_value="AWS Sentinel">eeaaf76e0f413200e19f8e8ce1050e80</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>56def2660f013200e19f8e8ce1050e0e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>RFCs</sys_name>
         <sys_overrides/>
         <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
@@ -37,8 +37,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
         <sys_update_name>sys_app_module_56def2660f013200e19f8e8ce1050e0e</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-23 07:24:07</sys_updated_on>
+        <sys_updated_by>sahitya</sys_updated_by>
+        <sys_updated_on>2017-02-23 11:48:36</sys_updated_on>
         <timeline_page/>
         <title>RFCs</title>
         <uncancelable>false</uncancelable>
