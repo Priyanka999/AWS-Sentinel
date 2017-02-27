@@ -17,7 +17,7 @@
         <icon/>
         <ignore_price>false</ignore_price>
         <image/>
-        <list_price>0</list_price>
+        <list_price>0.00</list_price>
         <location/>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -49,7 +49,7 @@
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-02-23 13:32:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>831354360f813200e19f8e8ce1050ef0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Create RFC</sys_name>

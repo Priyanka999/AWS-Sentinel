@@ -26,7 +26,16 @@
         <element label="Subject" mandatory="true" max_length="40" name="subject" type="string"/>
         <element label="Worst-case scenario" max_length="500" name="worst_case_scenario" type="string_full_utf8"/>
         <index name="index">
+            <element name="item"/>
+        </index>
+        <index name="index2">
             <element name="category"/>
+        </index>
+        <index name="index3">
+            <element name="subcategory"/>
+        </index>
+        <index name="index4">
+            <element name="operation"/>
         </index>
     </element>
 </database>

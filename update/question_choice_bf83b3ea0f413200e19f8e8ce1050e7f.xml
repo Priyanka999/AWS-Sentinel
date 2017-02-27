@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>sai</sys_created_by>
         <sys_created_on>2017-02-23 11:14:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bf83b3ea0f413200e19f8e8ce1050e7f</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Service Limit Increase</sys_name>

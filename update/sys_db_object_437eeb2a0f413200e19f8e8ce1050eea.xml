@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-02-23 10:54:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>437eeb2a0f413200e19f8e8ce1050eea</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Severity</sys_name>

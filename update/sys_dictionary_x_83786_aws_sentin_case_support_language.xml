@@ -14,7 +14,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Support Language </column_label>
+        <column_label>Support Language</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -51,17 +51,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-23 09:00:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>1b7397660f013200e19f8e8ce1050ef1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Support Language </sys_name>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e84837770f013200e19f8e8ce1050e0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Language</sys_name>
         <sys_package display_value="AWS Sentinel" source="x_83786_aws_sentin">ba6bf6220f013200e19f8e8ce1050ecb</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AWS Sentinel">ba6bf6220f013200e19f8e8ce1050ecb</sys_scope>
         <sys_update_name>sys_dictionary_x_83786_aws_sentin_case_support_language</sys_update_name>
-        <sys_updated_by>sahitya</sys_updated_by>
-        <sys_updated_on>2017-02-23 10:29:58</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-02-27 08:47:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

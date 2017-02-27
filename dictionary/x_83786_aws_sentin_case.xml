@@ -4,7 +4,7 @@
         <element label="Account" max_length="40" name="account" type="integer"/>
         <element active="false" label="Category" mandatory="true" max_length="40" name="category" reference="x_83786_aws_sentin_category" type="reference"/>
         <element label="CC Email Addresses" max_length="40" name="cc_email_addresses" type="string_full_utf8"/>
-        <element label="Communication Body " max_length="1000" name="communication_body" type="string_full_utf8"/>
+        <element label="Communication Body" max_length="1000" name="communication_body" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Contact Method" max_length="40" name="contact_method" type="string">
             <choice>
                 <element label="Web (we will get back to you within 24 hours)" sequence="0" value="Web (we will get back to you within 24 hours)"/>
@@ -39,10 +39,19 @@
         </element>
         <element label="Subject" max_length="40" name="subject" type="string"/>
         <element label="Sub Category" max_length="40" name="sub_category" type="string"/>
-        <element choice="1" label="Support Language " max_length="40" name="support_language" type="choice">
+        <element choice="1" label="Support Language" max_length="40" name="support_language" type="choice">
             <choice>
                 <element label="English" sequence="0" value="English"/>
             </choice>
         </element>
+        <index name="index">
+            <element name="severity"/>
+        </index>
+        <index name="index2">
+            <element name="service"/>
+        </index>
+        <index name="index3">
+            <element name="category"/>
+        </index>
     </element>
 </database>

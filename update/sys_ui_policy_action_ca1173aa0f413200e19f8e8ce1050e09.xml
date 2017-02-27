@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-02-23 11:03:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ca1173aa0f413200e19f8e8ce1050e09</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ext</sys_name>

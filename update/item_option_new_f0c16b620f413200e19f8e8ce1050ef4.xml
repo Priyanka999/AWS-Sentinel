@@ -55,7 +55,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-23 09:57:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f0c16b620f413200e19f8e8ce1050ef4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Communication Body</sys_name>
